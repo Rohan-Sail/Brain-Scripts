@@ -31,3 +31,8 @@ Because the one who understands *where* to strike and *which technique* carries 
 - ##### [[ x ] Level 4: Blade of Brilliance ( Top 20 Vulnerabilities )](./VisionVault/RoutingRoom.md)
 - ##### [[ x ] Level 5: Armor of Awareness ( Mitigation/Report Writing )](./VisionVault/RoutingRoom.md)
 
+---
+These quick revision notes are your polishing stone — crafted for the warrior who has done the work, and now simply needs to walk into the room gleaming.
+> Flip through. Sharpen fast. Strike with confidence. ⚒️
+- ##### [[ x ] Smithing Scrolls ( Quick Revision )](./VisionVault/RoutingRoom.md)
+
