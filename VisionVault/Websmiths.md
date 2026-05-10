@@ -25,7 +25,7 @@ Because the one who understands *where* to strike and *which technique* carries 
 
 #### _Your journey from raw iron to sharpened steel begins here._
 
-- ##### [[ x ] Level 1: Craftsman’s Codex ( Web Application Basic )](./VisionVault/RoutingRoom.md)
+- ##### [[ x ] Level 1: Craftsman’s Codex ( Web Application Basic )](./Websmiths/Arsenal/Level_1.md)
 - ##### [[ x ] Level 2: Hammer of Mastery ( Browser Role )](./VisionVault/RoutingRoom.md)
 - ##### [[ x ] Level 3: Foundry of Fundamentals ( Owasp Top 10 )](./VisionVault/RoutingRoom.md)
 - ##### [[ x ] Level 4: Blade of Brilliance ( Top 20 Vulnerabilities )](./VisionVault/RoutingRoom.md)
