@@ -46,6 +46,32 @@ As a penetration tester, understanding status codes is critical:
 - PUT and DELETE are generally not cacheable.
 
 Because caches store responses to cacheable methods, these are the ones most relevant to cache-related vulnerabilities.
+<details>
+<summary>Click to expand</summary>
+
+**⚠️ Web Cache Poisoning**
+**Definition:** An attacker tricks the cache into storing a malicious response.
+
+**Example:**
+- Attacker sends GET /home?foo=bar with a malicious header.
+- Server reflects the header in the response.
+- Cache stores this poisoned response.
+- Other users visiting /home get the attacker’s injected payload.
+
+👉 Cacheability is the direct enabler here — if the method wasn’t cacheable, the poisoned response wouldn’t persist.
+
+**⚠️ Web Cache Deception**
+**Definition:** Attacker tricks the cache into storing sensitive content that should never be cached.
+
+**Example:**
+- Victim visits GET /profile.php/fake.css.
+- Server still returns sensitive profile data.
+- Cache mistakenly stores it as a static resource.
+- Attacker later requests /profile.php/fake.css and gets cached private data.
+
+👉 Again, cacheability of GET responses is the root cause.
+
+</details>
 
 **#Mitigations**
 - Set proper headers: Use Cache-Control, Vary, and Content-Type correctly.
