@@ -2,12 +2,9 @@
 
 > Tomorrow is the battlefield, and tonight is the sharpening of your blade.
 
-When the pressure of interviews closes in and time slips away,  
-you open the **Brain-Script** — not a notebook of endings,  
-but a weapon of last-minute mastery.
+When the pressure of interviews closes in and time slips away, you open the **Brain-Script** — not a notebook of endings, but a weapon of last-minute mastery.
 
-Inside lies a secret arsenal forged to revive forgotten fundamentals,  
-sharpen concepts, and prepare your mind before the final showdown.
+Inside lies a secret arsenal forged to revive forgotten fundamentals, sharpen concepts, and prepare your mind before the final showdown.
 
 ---
 
