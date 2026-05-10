@@ -13,7 +13,7 @@ Because the one who understands *where* to strike and *which technique* carries 
 
 ---
 
-### ⚒️ The Websmiths Philosophy
+#### ⚒️ The Websmiths Philosophy
 
 > At **Websmiths**, we do not hand you weapons.  
 > We teach you how to forge them.
@@ -25,9 +25,9 @@ Because the one who understands *where* to strike and *which technique* carries 
 
 #### _Your journey from raw iron to sharpened steel begins here._
 
-#### [[ x ] Level 1: Craftsman’s Codex ( Web Application Basic )](./VisionVault/RoutingRoom.md)
-#### [[ x ] Level 2: Hammer of Mastery ( Browser Role )](./VisionVault/RoutingRoom.md)
-#### [[ x ] Level 3: Foundry of Fundamentals ( Owasp Top 10 )](./VisionVault/RoutingRoom.md)
-#### [[ x ] Level 4: Blade of Brilliance ( Top 20 Vulnerabilities )](./VisionVault/RoutingRoom.md)
-#### [[ x ] Level 5: Armor of Awareness ( Mitigation/Report Writing )](./VisionVault/RoutingRoom.md)
+- ##### [[ x ] Level 1: Craftsman’s Codex ( Web Application Basic )](./VisionVault/RoutingRoom.md)
+- ##### [[ x ] Level 2: Hammer of Mastery ( Browser Role )](./VisionVault/RoutingRoom.md)
+- ##### [[ x ] Level 3: Foundry of Fundamentals ( Owasp Top 10 )](./VisionVault/RoutingRoom.md)
+- ##### [[ x ] Level 4: Blade of Brilliance ( Top 20 Vulnerabilities )](./VisionVault/RoutingRoom.md)
+- ##### [[ x ] Level 5: Armor of Awareness ( Mitigation/Report Writing )](./VisionVault/RoutingRoom.md)
 
