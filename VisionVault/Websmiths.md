@@ -31,5 +31,3 @@ Because the one who understands *where* to strike and *which technique* carries 
 #### [[ x ] Level 4: Blade of Brilliance ( Top 20 Vulnerabilities )](./VisionVault/RoutingRoom.md)
 #### [[ x ] Level 5: Armor of Awareness ( Mitigation/Report Writing )](./VisionVault/RoutingRoom.md)
 
-#### [[ x ] Chapter 7. The Routing Room](./VisionVault/RoutingRoom.md)
-
