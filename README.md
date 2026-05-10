@@ -10,13 +10,13 @@ Inside lies a secret arsenal forged to revive forgotten fundamentals, sharpen co
 
 ### Pathfinder Pages
 
-#### [1. The Websmiths](./VisionVault/Websmiths.md)
-#### [2. The Kotlin Kingdom](./VisionVault/KotlinKingdom.md)
-#### [3. The Swift Syndicate](./VisionVault/SwiftSyndicate.md)
-#### [4. The Integration Hub](./VisionVault/IntegrationHub.md)
-#### [5. The Thinking Machine](./VisionVault/ThinkingMachine.md)
-#### [6. The Client Core](./VisionVault/ClientCore.md)
-#### [7. The Routing Room](./VisionVault/RoutingRoom.md)
+#### [[ x ] Chapter 1. The Websmiths](./VisionVault/Websmiths.md)
+#### [[ x ] Chapter 2. The Kotlin Kingdom](./VisionVault/KotlinKingdom.md)
+#### [[ x ] Chapter 3. The Swift Syndicate](./VisionVault/SwiftSyndicate.md)
+#### [[ x ] Chapter 4. The Integration Hub](./VisionVault/IntegrationHub.md)
+#### [[ x ] Chapter 5. The Thinking Machine](./VisionVault/ThinkingMachine.md)
+#### [[ x ] Chapter 6. The Client Core](./VisionVault/ClientCore.md)
+#### [[ x ] Chapter 7. The Routing Room](./VisionVault/RoutingRoom.md)
 
 ---
 
