@@ -76,3 +76,28 @@ Because caches store responses to cacheable methods, these are the ones most rel
 **#Mitigations**
 - Set proper headers: Use Cache-Control, Vary, and Content-Type correctly.
 
+> #### [ x ] Vulnerabiliites
+
+1. Application Running On Insecure Channel HTTP
+
+    E.g.: http://example.com/login
+
+2. Data Transfer in Plan text format ( Sensitive Data in GET Parameters )
+
+    E.g.: https://example.com/login?password=secret123
+
+3. Server Version Disclosure
+
+    E.g.: Server: Apache/2.4.29 (Ubuntu)
+
+6. HTTP Downgrade / Mixed Content
+
+    E.g.: A site is served over HTTPS, but an attacker forces it to run over HTTP.
+
+7. Vulnerable and Outdated TLS/SSL Version
+
+   E.g: 1.0 TLS Version
+
+
+
+
