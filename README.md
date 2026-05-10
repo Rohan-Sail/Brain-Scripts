@@ -3,7 +3,7 @@
 > Tomorrow is the battlefield, and tonight is the sharpening of your blade.
 
 When the pressure of interviews closes in and time slips away,  
-you open the **Death Notes** — not a notebook of endings,  
+you open the **Brain-Script** — not a notebook of endings,  
 but a weapon of last-minute mastery.
 
 Inside lies a secret arsenal forged to revive forgotten fundamentals,  
