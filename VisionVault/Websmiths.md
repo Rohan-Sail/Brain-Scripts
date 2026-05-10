@@ -25,12 +25,12 @@ Because the one who understands *where* to strike and *which technique* carries 
 
 #### _Your journey from raw iron to sharpened steel begins here._
 
-- ##### [[ x ] Level 1: Craftsman’s Codex ( Web Application Basic )](./Websmiths/Arsenal/Level_1.md)
-- ##### [[ x ] Level 2: Hammer of Mastery ( Browser Role )](./VisionVault/RoutingRoom.md)
-- ##### [[ x ] Level 3: Foundry of Fundamentals ( Owasp Top 10 )](./VisionVault/RoutingRoom.md)
-- ##### [[ x ] Level 4: Blade of Brilliance ( Top 20 Vulnerabilities )](./VisionVault/RoutingRoom.md)
-- ##### [[ x ] Level 5: Armor of Awareness ( Mitigation/Report Writing )](./VisionVault/RoutingRoom.md)
+- ##### [[ x ] Level 1: Craftsman’s Codex ( Web Application Basic )](./ChronicleBearer/Websmiths/Level_1.md)
+- ##### [[ x ] Level 2: Hammer of Mastery ( Browser Role )](./ChronicleBearer/Websmiths/Level_2.md)
+- ##### [[ x ] Level 3: Foundry of Fundamentals ( Owasp Top 10 )](./ChronicleBearer/Websmiths/Level_3.md)
+- ##### [[ x ] Level 4: Blade of Brilliance ( Top 20 Vulnerabilities )](./ChronicleBearer/Websmiths/Level_4.md)
+- ##### [[ x ] Level 5: Armor of Awareness ( Mitigation/Report Writing )](./ChronicleBearer/Websmiths/Level_5.md)
 
 ---
-These [Smithing Scrolls](./VisionVault/RoutingRoom.md) quick revision notes are your polishing stone — crafted for the warrior who has done the work, and now simply needs to walk into the room gleaming. 
+These [Smithing Scrolls](./ChronicleBearer/Websmiths/quick_note.md) quick revision notes are your polishing stone — crafted for the warrior who has done the work, and now simply needs to walk into the room gleaming. 
 
