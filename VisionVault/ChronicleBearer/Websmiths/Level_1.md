@@ -10,6 +10,7 @@ HTTP status codes are three-digit numbers returned by a server to indicate the r
 3. redirection (3xx) 
 4. client error (4xx)
 5. server error (5xx)
+
 Each code helps developers and penetration testers quickly understand the outcome of a request.
 
 As a penetration tester, understanding status codes is critical:
@@ -42,7 +43,11 @@ As a penetration tester, understanding status codes is critical:
 
 **#Cacheable Methods**
 - GET and HEAD are inherently cacheable.
+  > Most commonly cached by proxies, CDNs, and browsers.
+  > Vulnerabilities like Web Cache Poisoning and Web Cache Deception usually exploit GET requests because caches store their responses.
 - POST and PATCH are not cacheable by default, but can be if explicitly configured with headers.
+  > Typically not cached because POST is meant for state-changing operations.
+  > However, misconfigured caches or CDNs may mistakenly cache POST responses, creating rare but dangerous poisoning vectors.
 - PUT and DELETE are generally not cacheable.
 
 Because caches store responses to cacheable methods, these are the ones most relevant to cache-related vulnerabilities.
@@ -76,8 +81,27 @@ Because caches store responses to cacheable methods, these are the ones most rel
 **#Mitigations**
 - Set proper headers: Use Cache-Control, Vary, and Content-Type correctly.
 
+> #### [ x ] HTTP Versions
+
+HTTP/1.1
+**Features:**
+- Persistent Connections: Multiple requests/responses can be sent over a single TCP connection, reducing overhead `(keep-alive)`.
+- Chunked Transfer Encoding: Allows dynamic content delivery without knowing the full size beforehand.
+- Pipelining: Clients can send multiple requests without waiting for responses, improving efficiency.
+- Caching Improvements: Introduced cache-control headers for better performance.
+
+**Vulnerabilities:** Request smuggling, cache poisoning, and slowloris DoS attacks.
+
+HTTP/2
+
+HTTP/3
+
+
 > #### [ x ] Vulnerabiliites
 
+<details>
+<summary>Click to expand</summary>
+    
 1. Application Running On Insecure Channel HTTP
 
     E.g.: http://example.com/login
@@ -97,7 +121,7 @@ Because caches store responses to cacheable methods, these are the ones most rel
 7. Vulnerable and Outdated TLS/SSL Version
 
    E.g: 1.0 TLS Version
-
+</details>
 
 
 
